@@ -107,7 +107,9 @@ seo:
     - name: 'twitter:title'
       value: Best Flowers Delivery Websites Directory | Amazing Florist
     - name: 'twitter:description'
-      value: The preview of the Exto theme
+      value: >-
+        Order fresh flowers online from the best florists, flower shops and
+        flower flowers delivery services in your country. 
     - name: 'twitter:image'
       value: /images/energetic-celery.jpg
       relativeUrl: true
