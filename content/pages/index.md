@@ -30,7 +30,9 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: Featured Florists
-    subtitle: An optional subtitle of the section
+    subtitle: >-
+      Curated collection of featured florists and flowers delivery services by
+      country
     posts_number: 4
     col_number: two
     actions:
