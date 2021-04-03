@@ -26,6 +26,14 @@ sections:
       accessories, postcards), etc. Our rating includes the best flower delivery
       services in different countries according to buyers' opinion.
     actions: []
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    layout_style: mosaic
+    projects_number: 0
+    view_all_label: lorem-ipsum
+    view_all_url: '#'
+    type: section_portfolio
   - section_id: latest-posts
     type: section_posts
     title: Featured Florists
