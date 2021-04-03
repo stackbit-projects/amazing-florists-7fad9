@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: Amazing Florist
     content: >
-      ![](/images/Easter-Flowers-Bouquet-Bunny-Meadow-close\_1800x1800.jpeg)
+      ![](/images/Amazing-Florist-Flowers-Delivery-Directory-Hero.jpg)
 
 
       This section can contain a subtitle or tagline. The recommended length is
