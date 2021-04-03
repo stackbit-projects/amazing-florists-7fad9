@@ -84,8 +84,8 @@ sections:
 seo:
   title: Best Flowers Delivery Websites Directory | Amazing Florist
   description: >-
-    Order fresh flowers online from the best florists and flower flowers
-    delivery services in your country.
+    Order fresh flowers online from the best florists, flower shops and flower
+    flowers delivery services in your country. 
   extra:
     - name: 'og:type'
       value: website
