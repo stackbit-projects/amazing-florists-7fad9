@@ -46,6 +46,16 @@ sections:
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+  - section_id: latest-posts
+    type: section_posts
+    title: Latest from the Blog
+    subtitle: An optional subtitle of the section
+    posts_number: 4
+    col_number: two
+    actions:
+      - label: View Blog
+        url: blog
+        style: button
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
@@ -71,16 +81,6 @@ sections:
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam.
-  - section_id: latest-posts
-    type: section_posts
-    title: Latest from the Blog
-    subtitle: An optional subtitle of the section
-    posts_number: 4
-    col_number: two
-    actions:
-      - label: View Blog
-        url: blog
-        style: button
 seo:
   title: Best Flowers Delivery Websites Directory | Amazing Florist
   description: >-
