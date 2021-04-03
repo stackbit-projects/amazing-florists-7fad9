@@ -82,7 +82,7 @@ sections:
         url: blog
         style: button
 seo:
-  title: Stackbit Exto Theme
+  title: Best Flowers Delivery Websites in Your Country | Amazing Florist
   description: The preview of the Exto theme
   extra:
     - name: 'og:type'
