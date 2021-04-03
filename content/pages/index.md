@@ -5,7 +5,10 @@ sections:
   - section_id: hero
     type: section_hero
     title: Amazing Florist
-    content: >-
+    content: >
+      ![](/images/Easter-Flowers-Bouquet-Bunny-Meadow-close\_1800x1800.jpeg)
+
+
       This section can contain a subtitle or tagline. The recommended length is
       one to three sentences, but can be changed as you prefer.
     actions:
