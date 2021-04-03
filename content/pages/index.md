@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Flower delivery from your best local florist
+    title: Flowers delivery from your best local florist
     content: >
       ![](/images/Amazing-Florist-Flowers-Delivery-Directory-Hero.jpg)
 
