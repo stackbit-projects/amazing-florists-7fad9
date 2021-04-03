@@ -33,6 +33,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+        image: images/modern-aluminum.jpg
     type: section_grid
   - section_id: latest-projects
     type: section_portfolio
