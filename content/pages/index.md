@@ -17,26 +17,7 @@ sections:
     subtitle: lorem-ipsum
     col_number: two
     is_numbered: false
-    grid_items:
-      - title: lorem-ipsum
-        image_alt: lorem-ipsum
-        content: >
-          ## ![](/images/parallel-octopus.jpg)
-
-
-          Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          *   Lorem ipsum
-
-          *   dolor sit amet
-        actions: []
-        type: grid_item
-        image: images/modern-aluminum.jpg
+    grid_items: []
     type: section_grid
   - section_id: latest-projects
     type: section_portfolio
