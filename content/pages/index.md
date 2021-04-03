@@ -83,7 +83,9 @@ sections:
         style: button
 seo:
   title: Best Flowers Delivery Websites in Your Country | Amazing Florist
-  description: Best online florists and flower flowers delivery services in your country.
+  description: >-
+    Order fresh flowers online from the best florists and flower flowers
+    delivery services in your country.
   extra:
     - name: 'og:type'
       value: website
