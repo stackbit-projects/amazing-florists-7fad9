@@ -9,8 +9,28 @@ sections:
       ![](/images/Amazing-Florist-Flowers-Delivery-Directory-Hero.jpg)
 
 
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Whether you are shopping for fresh roses, birthday flowers, anniversary
+      flowers, thank you flowers or just want to send love to somebody - sending
+      flowers is the universal way to show how much you care.
+
+
+
+
+
+      The flower bouquet can be either an independent gift or an addition. In
+      any case, everybody will be happy to get a beautiful flower arrangements
+      hand-delivered to their doorsteps. Recently, flower delivery has become
+      especially common. There are several hundred delivery services worldwide,
+      among which we have carefully selected the best.
+
+
+      They take into account all the wishes of the customer, bring the most
+      beautiful flower arrangement at the agreed time and make it possible to
+      save your time on shopping trips. Experienced florists create unique
+      bouquets of a wide variety of flowers, including exotic ones. On the
+      sites, when ordering, you can select related products (gifts, accessories,
+      postcards), etc. Our rating includes the best flower delivery services in
+      different countries according to buyers' opinion.
     actions: []
   - section_id: latest-posts
     type: section_posts
