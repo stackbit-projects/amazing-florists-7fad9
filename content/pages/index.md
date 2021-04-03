@@ -36,7 +36,7 @@ sections:
     posts_number: 4
     col_number: two
     actions:
-      - label: View Blog
+      - label: View All Countries
         url: blog
         style: button
   - section_id: latest-projects
