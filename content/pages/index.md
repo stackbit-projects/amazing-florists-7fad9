@@ -83,7 +83,7 @@ sections:
         style: button
 seo:
   title: Best Flowers Delivery Websites in Your Country | Amazing Florist
-  description: The preview of the Exto theme
+  description: Best online florists and flower flowers delivery services in your country.
   extra:
     - name: 'og:type'
       value: website
