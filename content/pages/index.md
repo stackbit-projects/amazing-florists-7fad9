@@ -99,7 +99,7 @@ seo:
         flower flowers delivery services in your country. 
       keyName: property
     - name: 'og:image'
-      value: images/exto_preview.png
+      value: /images/Amasing-Florist-Flowers-Delivery-Directory.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
