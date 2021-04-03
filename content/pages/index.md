@@ -82,7 +82,7 @@ sections:
         url: blog
         style: button
 seo:
-  title: Best Flower Delivery Websites in Your Country | Amazing Florist
+  title: Best Flowers Delivery Websites Directory | Amazing Florist
   description: >-
     Order fresh flowers online from the best florists and flower flowers
     delivery services in your country.
