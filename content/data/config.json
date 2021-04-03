@@ -73,5 +73,6 @@
             }
         ]
     },
-    "domain": "https://amazing-florist.netlify.app"
+    "domain": "https://amazing-florist.netlify.app",
+    "favicon": "images/DodoMarket-Flowers-Gifts-Favicon.png"
 }
