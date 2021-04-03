@@ -9,14 +9,13 @@ sections:
       ![](/images/Amazing-Florist-Flowers-Delivery-Directory-Hero.jpg)
 
 
-      Whether you are shopping for fresh roses, birthday flowers, anniversary
-      flowers, thank you flowers - sending flowers online is the best way to
-      show how much you care. The flower bouquets are sent separately or as
-      addition to other gifts - in either case the recipient will be happy to
-      get a beautiful flower arrangements hand-delivered to their doorsteps.
-      Recently, flower delivery has become especially common. There are several
-      hundred delivery services worldwide, among which we have carefully
-      selected the best.
+      Sending fresh roses, birthday flowers, anniversary flowers, thank you
+      flowers online is the best way to show how much you care. The flower
+      bouquets are sent separately or as addition to other gifts - in either
+      case the recipient will be happy to get a beautiful flower arrangements
+      hand-delivered to their doorsteps. Recently, flower delivery has become
+      especially common. There are several hundred delivery services worldwide,
+      among which we have carefully selected the best.
 
 
       They take into account all the wishes of the customer, bring the most
