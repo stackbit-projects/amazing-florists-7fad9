@@ -105,7 +105,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Exto Theme
+      value: Best Flowers Delivery Websites Directory | Amazing Florist
     - name: 'twitter:description'
       value: The preview of the Exto theme
     - name: 'twitter:image'
